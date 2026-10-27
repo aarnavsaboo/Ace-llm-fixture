@@ -2,6 +2,7 @@
   "suite": "Ace-llm fixture",
   "schema_version": "2.0",
   "description": "Synthetic chat-model evaluation cases for instruction priority, retrieval boundaries, and tool-output handling.",
+  "labels": ["anonsec", "avs fixture"],
   "execution": {
     "temperature": 0,
     "max_output_tokens": 320,
